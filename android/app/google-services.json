@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "548850087717",
+    "project_id": "rendez-vous-ef146",
+    "storage_bucket": "rendez-vous-ef146.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548850087717:android:70b44592f0c48962cccccc",
+        "android_client_info": {
+          "package_name": "com.example.rendez_vous_hop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS5cPQg8CNaGpgxJd-qtPKxj5amY6Ds2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
